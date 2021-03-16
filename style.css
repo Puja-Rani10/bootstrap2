@@ -1,0 +1,40 @@
+.btn-custom2 {
+    color: #fbf4f4;
+    background-color: #07ddff;
+    border-color: #0798ff;
+}
+.btn-custom2:hover{
+    background-color: skyblue;
+}
+.btn-custom {
+	margin-bottom: 1rem;
+    color: #fff;
+    background-color: #c235dc;
+    border-color: #a335dc;
+}
+.btn-custom:hover{
+   background-color: pink;
+}
+
+button{
+	margin:20px 0 20px;
+}
+.form-control-custom{
+	/*margin-top: 22px;*/
+	display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    height: 20%;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
